@@ -33,5 +33,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License.
 ```
-
-Make sure to replace the placeholders (`YOUR_DATABASE_NAME`, `YOUR_USERNAME`, `YOUR_PASSWORD`) with your actual MySQL database details. You can also adjust any other parts as needed based on your specific project setup and requirements.
